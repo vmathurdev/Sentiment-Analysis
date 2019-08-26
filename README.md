@@ -1,0 +1,1 @@
+The code is divided into following parts: Extracting tweets using Twitter application, Cleaning the tweets for further analysis, Getting sentiment score for each tweet and Segregating positive and negative tweets
