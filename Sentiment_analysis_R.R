@@ -11,10 +11,10 @@ library("tm")
 library("twitteR")
 library("syuzhet")
 
-consumer_key <- 'HoXSXueE7vDP6xGjxVvmDIbv5'
-consumer_secret <- 'NxgnxU0IvYT8fcomHVxanGftaduhizCAPacy3FaC8d6mTeYTWz'
-access_token <- '2257992877-1eBzBTeQNKz3aPsdwLf5PchuPVZDzS1vtf889TR'
-access_secret <- 'v557kPKyBSIOV9rYB25qXTJ7BBs9fujR2wOoFXOdFen20'
+consumer_key <-
+consumer_secret <- 
+access_token <- 
+access_secret <- 
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 tweets <- userTimeline("Avilok137", n=10)
